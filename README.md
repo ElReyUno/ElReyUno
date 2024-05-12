@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hello There 👋 I Am A Software Engineer | Code Craftsman | Debugging Magician
 
-<!--
-**ElReyUno/ElReyUno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A highly adaptable Full-Stack Software Engineer passionate about integrating emerging technologies. 
 
-Here are some ideas to get you started:
+Proven ability to quickly master new tools and languages to deliver high-quality solutions across diverse project requirements. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Actively Engaged:
+
+### Recent Freelance Projects
+
+* Project Overhaul
+    * Full-Stack Engineer with System Administration Expertise
+      * Python Scripting
+        * Jupyter Notebooks
+        * JupyterLab
+    * Architecture & Devolopment
+        * Full SDLC (Planning & Requirements Gathering, Design & Prototyping, Development (Coding), Testing & Quality Assurance, Deployment, Maintenance & Suppor, Documentation)
+    * SaaS
+    
+* musicinxin
+    * VMware Administrator & DevSecOps Engineer
+    * Client-to-Server Software Engineer & Systems Administrator
+      * Ansible 
+    * SaaS
+* Bulldawg Davis Consulting
+  * Full-Stack Software Engineer & Web Application Developer
+    * Bootstrap, CSS, HTTP5, Dotnet Maui, Server Administrator, SDLC
+
+### Process Improvement
+
+[History In The Making](https://uapbnews.wordpress.com/2016/09/12/hbcu-all-star-seeks-to-add-more-uapb-students-to-the-roster/)
+<!-- INSERT CONGRESSIONAL SHOUTOUT ONCE FILE IS FOUND -->
+
+> “**_Anyone with vision for a better tomorrow should take steps in manifesting their ideal._**” - SID SMITH
+>> 🌱 I’m currently learning Computer Science and Engineering. <br />
+>> 💬 Ask me about anything. <br />
+>> ⚡ Fun fact: I have a natural passion for finding solutions to problems while considering considering solutions-based performance tailored to Client's requirements. <br />
