@@ -1,12 +1,12 @@
 # Hello There 👋 I Am A Software Engineer | Code Craftsman | Debugging Magician
 
-## A highly adaptable Full-Stack Software Engineer passionate about integrating emerging technologies. 
+## A highly adaptable Full-Stack Software Engineer with a passion for successfully delivering robust and scalable solutions while integrating emerging technologies based upon specifications and requirements. 
 
 Proven ability to quickly master new tools and languages to deliver high-quality solutions across diverse project requirements. 
 
 ## Currently Actively Engaged:
 
-### Recent Freelance Projects
+### Recent Projects
 
 * Project Overhaul
     * Full-Stack Engineer with System Administration Expertise
@@ -25,6 +25,8 @@ Proven ability to quickly master new tools and languages to deliver high-quality
 * Bulldawg Davis Consulting
   * Full-Stack Software Engineer & Web Application Developer
     * Bootstrap, CSS, HTTP5, Dotnet Maui, Server Administrator, SDLC
+<!-- Add recent DevSecOp Experience/relevantsk skills-->
+<!-- DO ANOTHER LINE FOR EMBEDDED SOFTWARE/SYSTEM ENGINEERING -->
 
 ### Process Improvement
 
