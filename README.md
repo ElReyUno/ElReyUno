@@ -13,8 +13,8 @@ Proven ability to quickly master new tools and languages to deliver high-quality
       * Python Scripting
         * Jupyter Notebooks
         * JupyterLab
-    * Architecture & Devolopment
-        * Full SDLC (Planning & Requirements Gathering, Design & Prototyping, Development (Coding), Testing & Quality Assurance, Deployment, Maintenance & Suppor, Documentation)
+    * Architecture & Development
+        * Full SDLC (Planning & Requirements Gathering, Design & Prototyping, Development (Coding), Testing & Quality Assurance, Deployment, Maintenance & Support, Documentation)
     * SaaS
     
 * musicinxin
@@ -34,4 +34,4 @@ Proven ability to quickly master new tools and languages to deliver high-quality
 > “**_Anyone with vision for a better tomorrow should take steps in manifesting their ideal._**” - SID SMITH
 >> 🌱 I’m currently learning Computer Science and Engineering. <br />
 >> 💬 Ask me about anything. <br />
->> ⚡ Fun fact: I have a natural passion for finding solutions to problems while considering considering solutions-based performance tailored to Client's requirements. <br />
+>> ⚡ Fun fact: I have a natural passion for finding solutions to problems while considering solutions-based performance tailored to Client's requirements. <br />
