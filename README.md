@@ -1,37 +1,15 @@
-# Hello There 👋 I Am A Software Engineer | Code Craftsman | Debugging Magician
+# WIS3 Guys
 
-## A highly adaptable Full-Stack Software Engineer passionate about integrating emerging technologies. 
+## La Familia
 
-Proven ability to quickly master new tools and languages to deliver high-quality solutions across diverse project requirements. 
+### [Soy El Lo](https://www.facebook.com/soy.ello.77)
+* [WIS3 Guys](https://www.youtube.com/@wis3guys731)
 
-## Currently Actively Engaged:
+### Gee
+- [Gee](https://soundcloud.com/wis3-guys)
 
-### Recent Freelance Projects
+### [Big Jon](jonathanhowarddev1)
 
-* Project Overhaul
-    * Full-Stack Engineer with System Administration Expertise
-      * Python Scripting
-        * Jupyter Notebooks
-        * JupyterLab
-    * Architecture & Development
-        * Full SDLC (Planning & Requirements Gathering, Design & Prototyping, Development (Coding), Testing & Quality Assurance, Deployment, Maintenance & Support, Documentation)
-    * SaaS
-    
-* musicinxin
-    * VMware Administrator & DevSecOps Engineer
-    * Client-to-Server Software Engineer & Systems Administrator
-      * Ansible 
-    * SaaS
-* Bulldawg Davis Consulting
-  * Full-Stack Software Engineer & Web Application Developer
-    * Bootstrap, CSS, HTTP5, Dotnet Maui, Server Administrator, SDLC
+### [ElReyUno](https://github.com/ElReyUno)
 
-### Process Improvement
-
-[History In The Making](https://uapbnews.wordpress.com/2016/09/12/hbcu-all-star-seeks-to-add-more-uapb-students-to-the-roster/)
-<!-- INSERT CONGRESSIONAL SHOUTOUT ONCE FILE IS FOUND -->
-
-> “**_Anyone with vision for a better tomorrow should take steps in manifesting their ideal._**” - SID SMITH
->> 🌱 I’m currently learning Computer Science and Engineering. <br />
->> 💬 Ask me about anything. <br />
->> ⚡ Fun fact: I have a natural passion for finding solutions to problems while considering solutions-based performance tailored to Client's requirements. <br />
+## [Christmas Album Coming Real Soon...](https://www.youtube.com/watch?v=1giQVuoTAFM)
