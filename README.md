@@ -20,7 +20,9 @@ Proven ability to quickly master new tools and languages to deliver high-quality
 * musicinxin
     * VMware Administrator & DevSecOps Engineer
     * Client-to-Server Software Engineer & Systems Administrator
-      * Ansible 
+      * Ansible
+      * iOS
+      * Linux
     * SaaS
 * Bulldawg Davis Consulting
   * Full-Stack Software Engineer & Web Application Developer
