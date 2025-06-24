@@ -92,18 +92,18 @@
             <hr class="mb-5 star-dark">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
-                    <form id="contactForm" name="sentMessage" method="POST" action="https://formspree.io/f/yourFormID">
+                    <form id="contactForm" name="sentMessage">
                         <div>
-                            <div class="mb-0 pb-2 form-floating"><input class="form-control" type="text" id="name" name="name" required placeholder="Name"><label class="form-label">Name</label><small class="form-text text-danger help-block" id="nameError"></small></div>
+                            <div class="mb-0 pb-2 form-floating"><input class="form-control" type="text" id="name" required="" placeholder="Name"><label class="form-label">Name</label><small class="form-text text-danger help-block"></small></div>
                         </div>
                         <div>
-                            <div class="mb-0 pb-2 form-floating"><input class="form-control" type="email" id="email" name="email" required placeholder="Email Address"><label class="form-label">Email Address</label><small class="form-text text-danger help-block" id="emailError"></small></div>
+                            <div class="mb-0 pb-2 form-floating"><input class="form-control" type="email" id="email" required="" placeholder="Email Address"><label class="form-label">Email Address</label><small class="form-text text-danger help-block"></small></div>
                         </div>
                         <div>
-                            <div class="mb-0 pb-2 form-floating"><input class="form-control" type="tel" id="phone" name="phone" required placeholder="Phone Number" pattern="\\d{10}"><label class="form-label">Phone Number</label><small class="form-text text-danger help-block" id="phoneError"></small></div>
+                            <div class="mb-0 pb-2 form-floating"><input class="form-control" type="tel" id="phone" required="" placeholder="Phone Number"><label class="form-label">Phone Number</label><small class="form-text text-danger help-block"></small></div>
                         </div>
                         <div>
-                            <div class="mb-5 pb-2 form-floating"><textarea class="form-control" id="message" name="message" required placeholder="Message" maxlength="500" style="height: 150px;"></textarea><label class="form-label">Message</label><small class="form-text text-danger help-block" id="messageError"></small></div>
+                            <div class="mb-5 pb-2 form-floating"><textarea class="form-control" id="message" required="" placeholder="Message" style="height: 150px;"></textarea><label class="form-label">Message</label><small class="form-text text-danger help-block"></small></div>
                         </div>
                         <div id="success"></div>
                         <div><button class="btn btn-primary btn-xl" id="sendMessageButton" type="submit">Send</button></div>
@@ -112,7 +112,7 @@
             </div>
         </div>
     </section>
-    <script>
+    <footer class="text-center footer">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 mb-5 mb-lg-0">
