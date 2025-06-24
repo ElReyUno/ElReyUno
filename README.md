@@ -22,8 +22,8 @@
     - [Bulldawg Davis Consulting](#bulldawg-davis-consulting)
     - [Full-Stack Dashboard Monorepo](#full-stack-dashboard-monorepo)
     - [CIW JavaScript Specialist Certification Prep (1D0-735)](#ciw-javascript-specialist-certification-prep-1d0-735)
-    - [Titan Coffee Run](#titan-coffee-run)
-    - [TitanCoffeeRunRails](#titancoffeerunrails)
+    - [Titans' Coffee Run](#titan-coffee-run)
+    - [Titans' Coffee Run On Rails](#titancoffeerunrails)
     - [Automated WordPress Deployment on AWS](#automated-wordpress-deployment-on-aws)
     - [Project Overhaul](#project-overhaul)
     - [musicinxin](#musicinxin)
@@ -140,27 +140,55 @@ JavaScript Developer & Client-Side Specialist:
     *   Hands-on Labs & Practical Projects
     *   Building Interactive & Dynamic Web Pages
 
-#### Titan Coffee Run
-Full-Stack Engineer with Frontend and Backend Development Expertise:
-- HTML, CSS, JavaScript
-- Node.js, JSON Server
-- Mocha, Chai for Testing
-- Architecture & Development
-   - Full SDLC
-   - Planning & Requirements Gathering
-   - Design & Prototyping
-   - Development (Coding)
-   - Testing & Quality Assurance
-   - Deployment
-   - Maintenance & Support
-   - Documentation
-- E-commerce Platform for Coffee Delivery
-  - Responsive Web Design
-  - User Authentication and Account Management
-  - Order Processing and Checkout System
-  - Data Visualization with Chart.js
+#### Bodies By Beach Bodies
+Full-Stack JavaScript Engineer (React & Next.js):
+*   **Frontend Framework & Architecture**
+    *   React with Next.js (for SSR & SSG)
+    *   Architecture founded on SOLID & Object-Oriented Design Principles
+    *   Single-Page Application (SPA) Architecture
+    *   Component-Based Development with Storybook
+*   **Styling & Design**
+    *   Tailwind CSS
+    *   Responsive, Mobile-First Design
+    *   Wireframing & Mockups (Figma, Canva, wireframe.cc)
+*   **Backend & Database**
+    *   MongoDB / MongoDB Atlas
+*   **Testing & Quality Assurance**
+    *   Jest (Unit & integration testing)
+    *   Cypress (End-to-end testing)
+    *   Postman (API endpoint testing)
+*   **CI/CD & Deployment**
+    *   GitHub Actions
+    *   Vercel / Netlify
+*   **Development Ecosystem & Tooling**
+    *   Node.js, Webpack 5, Babel
+    *   Development Environment: Windows Subsystem for Linux (WSL) with Ubuntu
+    *   Version Control: Git & GitHub
+*   **Core Principles**
+    *   Accessibility (Semantic HTML, ARIA)
+    *   Search Engine Optimization (SEO)
 
-  #### TitanCoffeeRunRails
+#### Titans' Coffee Run
+Full-Stack Engineer with Frontend and Back-End Development Expertise:
+* HTML, CSS, JavaScript
+* Node.js, JSON Server
+* Mocha, Chai for Testing
+* Architecture & Development
+   * Full SDLC
+   * Planning & Requirements Gathering
+   * Design & Prototyping
+   * Development (Coding)
+   * Testing & Quality Assurance
+   * Deployment
+   * Maintenance & Support
+   * Documentation
+* E-Commerce Platform for Coffee Delivery
+  * Responsive Web Design
+  * User Authentication and Account Management
+  * Order Processing and Checkout System
+  * Data Visualization with Chart.js
+
+  #### Titans' Coffee Run On Rails
 Backend Engineer & Ruby on Rails Developer:
 *   **Backend Framework & Database**
     *   Ruby on Rails
