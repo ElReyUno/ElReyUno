@@ -42,7 +42,9 @@ Proven ability to quickly master new tools and languages to deliver high-quality
 
 ### Recent Freelance Projects
 
-#### AI-Powered Career Toolkit
+#### AI-Powered Career Toolkit (PersonaForge)
+[Live Demo & Details](https://elreyuno.github.io/cover-letter-llm/)
+
 Full-Stack AI Engineer & Cloud/DevOps Architect:
 *   **Backend Development & Architecture**
     *   Ruby on Rails 8.0
@@ -80,6 +82,8 @@ Full-Stack AI Engineer & Cloud/DevOps Architect:
     *   Devise & Warden (User authentication)
 
 #### Bulldawg Davis Consulting
+[Live Demo & Details](https://elreyuno.github.io/Bulldawg-Davis-Consulting/)
+
 Full-Stack Software Engineer & Web Application Developer:
 *   **Frontend Development**
     *   HTML5, CSS3, Vanilla JavaScript
@@ -92,7 +96,9 @@ Full-Stack Software Engineer & Web Application Developer:
     *   Responsive, Mobile-First Web Design
     *   Secure Contact Form Submission API
 
-#### Full-Stack Dashboard Monorepo
+#### Full-Stack Dashboard Monorepo (Project WeSpark)
+[Live Demo & Details](https://elreyuno.github.io/project-wespark/)
+
 Full-Stack Engineer with Monorepo & Cross-Platform Expertise:
 *   **Architecture & Development Ecosystem**
     *   Monorepo Structure (for end-to-end development)
@@ -144,6 +150,8 @@ JavaScript Developer & Client-Side Specialist:
     *   Building Interactive & Dynamic Web Pages
 
 #### Titan Coffee Run
+[Live Demo & Details](https://elreyuno.github.io/Titans-Coffee-Run/)
+
 Full-Stack Engineer with Frontend and Backend Development Expertise:
 - HTML, CSS, JavaScript
 - Node.js, JSON Server
@@ -163,7 +171,9 @@ Full-Stack Engineer with Frontend and Backend Development Expertise:
   - Order Processing and Checkout System
   - Data Visualization with Chart.js
 
-  #### TitanCoffeeRunRails
+#### TitanCoffeeRunRails
+[Live Demo & Details](https://elreyuno.github.io/TitanCoffeeRunRails/)
+
 Backend Engineer & Ruby on Rails Developer:
 *   **Backend Framework & Database**
     *   Ruby on Rails
@@ -181,6 +191,8 @@ Backend Engineer & Ruby on Rails Developer:
     *   Bundler (Ruby dependency management)
 
 #### Automated WordPress Deployment on AWS
+[Live Demo & Details](https://elreyuno.github.io/wordpress-aws-deployment/)
+
 Cloud & DevOps Engineer:
 *   **Infrastructure as Code (IaC) & Automation**
     *   AWS CloudFormation (for automated provisioning of all resources)
@@ -206,6 +218,8 @@ Cloud & DevOps Engineer:
     *   Database Management Tooling (MariaDB CLI, phpMyAdmin, DBeaver)
   
 #### Project Overhaul
+[Live Demo & Details](https://github.com/ElReyUno/ElReyUno)
+
 Full-Stack Engineer with System Administration Expertise:
 * Python Scripting
    * Jupyter Notebooks
@@ -215,6 +229,8 @@ Full-Stack Engineer with System Administration Expertise:
 * SaaS
     
 #### musicinxin
+[Live Demo & Details](https://github.com/ElReyUno/ElReyUno)
+
 VMware Administrator & DevSecOps Engineer:
 * Client-to-Server Software Engineer & Systems Administrator
    * Ansible
@@ -223,6 +239,8 @@ VMware Administrator & DevSecOps Engineer:
 * SaaS
 
 #### Interview Cake Weekly Problem 532 Find Rotation Point
+[Live Demo & Details](https://github.com/ElReyUno/ElReyUno)
+
 JavaScript Developer with Algorithm Optimization Expertise:
 * Algorithm Design & Optimization
    * Binary Search
