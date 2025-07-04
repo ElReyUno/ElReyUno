@@ -1,5 +1,8 @@
 # Hello There 👋 I Am A Software Engineer | Code Craftsman | Debugging Magician | Git Repo Man
 
+> 🎯 **Talent Scouts & Digital Dreamers:** 
+> Explore my interactive portfolio at [EZASW](https://elreyuno.github.io/ElReyUno/) — live demos, real code, and a sprinkle of engineering magic await!
+
 <p align="left">
   <a href="https://github.com/elreyuno">
     <img src="https://img.shields.io/github/followers/elreyuno?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
