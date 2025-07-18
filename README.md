@@ -17,13 +17,76 @@
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&style=flat-square" alt="VS Code" />
   <img src="https://img.shields.io/badge/Stack-Full--Stack-green?style=flat-square" alt="Full Stack" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-black?logo=express&style=flat-square" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Angular-red?logo=angular&style=flat-square" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-blue?logo=react&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&style=flat-square" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&style=flat-square" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-red?logo=rubyonrails&style=flat-square" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&style=flat-square" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-red?logo=redis&style=flat-square" alt="Redis" />
+  <img src="https://img.shields.io/badge/Sidekiq-CC0000?logo=sidekiq&style=flat-square" alt="Sidekiq" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&style=flat-square" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&style=flat-square" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&style=flat-square" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Shadcn/ui-6E56CF?style=flat-square" alt="Shadcn/ui" />
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&style=flat-square" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&style=flat-square" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Jest-green?logo=jest&style=flat-square" alt="Jest" />
+  <img src="https://img.shields.io/badge/Mocha%20%26%20Chai-8D6748?logo=mocha&style=flat-square" alt="Mocha & Chai" />
+  <img src="https://img.shields.io/badge/Chart.js-orange?logo=chartdotjs&style=flat-square" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/Docker-blue?logo=docker&style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-orange?logo=amazonaws&style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-yellow?logo=googlecloud&style=flat-square" alt="GCP" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&style=flat-square" alt="Terraform" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?logo=amazonaws&style=flat-square" alt="CloudFormation" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&style=flat-square" alt="EC2" />
+  <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&style=flat-square" alt="S3" />
+  <img src="https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&style=flat-square" alt="RDS" />
+  <img src="https://img.shields.io/badge/CloudFront-FF9900?logo=amazoncloudfront&style=flat-square" alt="CloudFront" />
+  <img src="https://img.shields.io/badge/Route%2053-FF9900?logo=amazonroute53&style=flat-square" alt="Route 53" />
+  <img src="https://img.shields.io/badge/CodePipeline-FF9900?logo=aws&style=flat-square" alt="CodePipeline" />
+  <img src="https://img.shields.io/badge/OpenAI-blue?logo=openai&style=flat-square" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-orange?logo=anthropic&style=flat-square" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Clerk-3A3A3A?logo=clerk&style=flat-square" alt="Clerk" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&style=flat-square" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Resend-4B9CD3?logo=gmail&style=flat-square" alt="Resend" />
+  <img src="https://img.shields.io/badge/Aider-CLI-6E56CF?style=flat-square" alt="Aider CLI" />
+  <img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&style=flat-square" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Codespaces-0078D4?logo=github&style=flat-square" alt="Codespaces" />
+  <img src="https://img.shields.io/badge/Git-black?logo=git&style=flat-square" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square" alt="GitHub" />
+  <img src="https://img.shields.io/badge/SaaS-green?style=flat-square" alt="SaaS" />
+</p>
 
 ## Table of Contents
-- [Currently Actively Engaged](#currently-actively-engaged)
   - [Recent Freelance Projects](#recent-freelance-projects)
     - [AI-Powered Career Toolkit](#ai-powered-career-toolkit)
     - [Bulldawg Davis Consulting](#bulldawg-davis-consulting)
     - [Full-Stack Dashboard Monorepo](#full-stack-dashboard-monorepo)
+    - [CIW JavaScript Specialist Certification Prep (1D0-735)](#ciw-javascript-specialist-certification-prep-1d0-735)
+    - [Titan Coffee Run](#titan-coffee-run)
+    - [TitanCoffeeRunRails](#titancoffeerunrails)
+    - [Automated WordPress Deployment on AWS](#automated-wordpress-deployment-on-aws)
+    - [Project Overhaul](#project-overhaul)
+    - [musicinxin](#musicinxin)
+    - [Interview Cake Weekly Problem 532 Find Rotation Point](#interview-cake-weekly-problem-532-find-rotation-point)
+## Table of Contents
+- [About Me](#about-me)
+- [Tech Stack & Skills](#tech-stack--skills)
+- [Currently Actively Engaged](#currently-actively-engaged)
+  - [Recent Freelance Projects](#recent-freelance-projects)
+    - [SaaS Next.js & AI Boilerplate (NextLaunch)](#saas-nextjs--ai-boilerplate-nextlaunch)
+    - [AI-Powered Conduit Roster (AidenCraft)](#ai-powered-conduit-roster-aidencraft)
+    - [AI Agent Testing Framework (Operation Check-In)](#ai-agent-testing-framework-operation-check-in)
+    - [AI-Powered Career Toolkit (PersonaForge)](#ai-powered-career-toolkit-personaforge)
+    - [Bulldawg Davis Consulting](#bulldawg-davis-consulting)
+    - [Full-Stack Dashboard Monorepo (Project WeSpark)](#full-stack-dashboard-monorepo-project-wespark)
     - [CIW JavaScript Specialist Certification Prep (1D0-735)](#ciw-javascript-specialist-certification-prep-1d0-735)
     - [Titan Coffee Run](#titan-coffee-run)
     - [TitanCoffeeRunRails](#titancoffeerunrails)
@@ -42,8 +105,109 @@ Proven ability to quickly master new tools and languages to deliver high-quality
 
 ### Recent Freelance Projects
 
+#### SaaS Next.js & AI Boilerplate (NextLaunch)
+
+[Live Demo & Details](https://elreyuno.github.io/NextLaunch/)
+
+Okay, here's the breakdown for NextLaunch, following your requested format.
+
+#### NextLaunch: The Ultimate Next.js & AI Starter Kit
+
+[Live Demo & Details](https://elreyuno.github.io/NextLaunch/)
+
+SaaS Growth Hacker / Data Shaman / Code Alchemist
+
+*   **Frontend Development**
+    *   Next.js 14 (App Router)
+    *   React (JSX, Components)
+    *   Tailwind CSS
+    *   Shadcn/ui (UI Components)
+*   **Backend Development & Architecture**
+    *   Next.js API Routes
+    *   Server-Side Logic & Rate Limiting
+    *   Database ORM: Prisma
+*   **AI Integration**
+    *   OpenAI API (Chat Interface)
+    *   AI-Powered Features
+*   **Authentication & Authorization**
+    *   Clerk (User Authentication, Social Logins)
+    *   Protected Routes
+    *   User Profile Management
+*   **Payments & Subscriptions**
+    *   Stripe Integration (One-Time & Recurring)
+    *   Webhooks (User Role Management)
+*   **Database & Infrastructure**
+    *   PostgreSQL (Neon)
+    *   Environment Variables Configuration
+*   **Deployment & DevOps**
+    *   Vercel (One-Click Deployment)
+    *   GitHub (Version Control)
+*   **Email Integration**
+    *   Resend (Transactional Emails)
+*   **Testing & Quality Assurance**
+    *   Production-Ready
+    *   Attention to Scalability
+*   **Essential Tools**
+    *   npm (Package Management)
+    *   Git (Version Control)
+    *   VS Code
+
+#### AI-Powered Conduit Roster (AidenCraft)
+
+[Live Demo & Details](https://elreyuno.github.io/AidenCraft/)
+
+AI-Augmented DeveloperAI Agent Testing Architect / Full-Stack Developer / AI Integration Specialist
+
+*   **Frontend Development**
+    *   Angular (TypeScript)
+    *   HTML/CSS
+    *   Component-Based Architecture
+*   **Backend Development & API**
+    *   NestJS (Node.js/TypeScript)
+    *   REST API Design & Implementation
+    *   MySQL (Database Interaction)
+*   **AI Assistance & Code Generation**
+    *   Aider CLI (AI-Assisted Code Generation and Modification)
+    *   Prompt Engineering & Iterative Refinement
+*   **Development Environment & Tools**
+    *   VS Code (or similar IDE)
+    *   Codespaces (Cloud-Based Development Environment)
+    *   Node Package Manager (npm)
+*   **Testing & Quality Assurance**
+    *   Manual Testing (Feature Validation)
+    *   Debugging (Browser Developer Tools, NestJS Debugging)
+*   **Version Control**
+    *   Git
+    *   GitHub (Repository Hosting)
+*   **Documentation**
+    *   API Documentation (Swagger/OpenAPI)
+    *   Project README
+
+#### AI Agent Testing Framework (Operation Check-In)
+[Live Demo & Details](https://elreyuno.github.io/Operation-Check-In/)
+
+AI Agent Testing Architect
+
+*   **AI Agent & Testing**
+    *   Claude AI (Agent)
+    *   MCP (Model Context Protocol)
+    *   FastMCP (Server)
+    *   Test Case Design & Validation
+*   **Backend Development & Automation**
+    *   Python
+    *   Bash
+    *   Test Scripting
+*   **Containerization & DevOps**
+    *   Docker
+    *   GitHub (Version Control)
+*   **Essential Tools**
+    *   uv (Python Package Installer)
+    *   VS Code
+    *   Anthropic API
+
 #### AI-Powered Career Toolkit (PersonaForge)
 [Live Demo & Details](https://elreyuno.github.io/cover-letter-llm/)
+
 
 Full-Stack AI Engineer & Cloud/DevOps Architect:
 *   **Backend Development & Architecture**
