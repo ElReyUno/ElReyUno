@@ -1,7 +1,7 @@
 # Hello There 👋 I Am A Software Engineer | Code Craftsman | Debugging Magician | Git Repo Man
 
 > 🎯 **Talent Scouts & Digital Dreamers:** 
-> Explore my interactive portfolio at [EZASW](https://elreyuno.github.io/ElReyUno/) — live demos, real code, and a sprinkle of engineering magic await!
+> Explore my interactive portfolio at [EZASW (https://elreyuno.github.io/ElReyUno/)](https://elreyuno.github.io/ElReyUno/) — live demos, real code, and a sprinkle of engineering magic await!
 
 <p align="left">
   <a href="https://github.com/elreyuno">
@@ -65,20 +65,6 @@
 </p>
 
 ## Table of Contents
-  - [Recent Freelance Projects](#recent-freelance-projects)
-    - [AI-Powered Career Toolkit](#ai-powered-career-toolkit)
-    - [Bulldawg Davis Consulting](#bulldawg-davis-consulting)
-    - [Full-Stack Dashboard Monorepo](#full-stack-dashboard-monorepo)
-    - [CIW JavaScript Specialist Certification Prep (1D0-735)](#ciw-javascript-specialist-certification-prep-1d0-735)
-    - [Titan Coffee Run](#titan-coffee-run)
-    - [TitanCoffeeRunRails](#titancoffeerunrails)
-    - [Automated WordPress Deployment on AWS](#automated-wordpress-deployment-on-aws)
-    - [Project Overhaul](#project-overhaul)
-    - [musicinxin](#musicinxin)
-    - [Interview Cake Weekly Problem 532 Find Rotation Point](#interview-cake-weekly-problem-532-find-rotation-point)
-## Table of Contents
-- [About Me](#about-me)
-- [Tech Stack & Skills](#tech-stack--skills)
 - [Currently Actively Engaged](#currently-actively-engaged)
   - [Recent Freelance Projects](#recent-freelance-projects)
     - [SaaS Next.js & AI Boilerplate (NextLaunch)](#saas-nextjs--ai-boilerplate-nextlaunch)
@@ -96,7 +82,6 @@
     - [Interview Cake Weekly Problem 532 Find Rotation Point](#interview-cake-weekly-problem-532-find-rotation-point)
 - [Process Improvement](#process-improvement)
 
-
 ## A highly adaptable Full-Stack Software Engineer passionate about integrating emerging technologies. 
 
 Proven ability to quickly master new tools and languages to deliver high-quality solutions across diverse project requirements. 
@@ -105,17 +90,11 @@ Proven ability to quickly master new tools and languages to deliver high-quality
 
 ### Recent Freelance Projects
 
-#### SaaS Next.js & AI Boilerplate (NextLaunch)
+#### NextLaunch: SaaS Next.js & AI Boilerplate
 
 [Live Demo & Details](https://elreyuno.github.io/NextLaunch/)
 
-Okay, here's the breakdown for NextLaunch, following your requested format.
-
-#### NextLaunch: The Ultimate Next.js & AI Starter Kit
-
-[Live Demo & Details](https://elreyuno.github.io/NextLaunch/)
-
-SaaS Growth Hacker / Data Shaman / Code Alchemist
+SaaS Growth Hacker | Data Shaman | Code Alchemist
 
 *   **Frontend Development**
     *   Next.js 14 (App Router)
@@ -152,11 +131,11 @@ SaaS Growth Hacker / Data Shaman / Code Alchemist
     *   Git (Version Control)
     *   VS Code
 
-#### AI-Powered Conduit Roster (AidenCraft)
+#### AidenCraft: AI-Powered Conduit Roster
 
 [Live Demo & Details](https://elreyuno.github.io/AidenCraft/)
 
-AI-Augmented DeveloperAI Agent Testing Architect / Full-Stack Developer / AI Integration Specialist
+AI-Augmented DeveloperAI Agent Testing Architect | Full-Stack Developer | AI Integration Specialist
 
 *   **Frontend Development**
     *   Angular (TypeScript)
@@ -183,10 +162,10 @@ AI-Augmented DeveloperAI Agent Testing Architect / Full-Stack Developer / AI Int
     *   API Documentation (Swagger/OpenAPI)
     *   Project README
 
-#### AI Agent Testing Framework (Operation Check-In)
+#### Operation Check-In: AI Agent Testing Framework
 [Live Demo & Details](https://elreyuno.github.io/Operation-Check-In/)
 
-AI Agent Testing Architect
+AI Agent Testing Validation Architect | AI Agent Behavior Analyst
 
 *   **AI Agent & Testing**
     *   Claude AI (Agent)
@@ -205,11 +184,12 @@ AI Agent Testing Architect
     *   VS Code
     *   Anthropic API
 
-#### AI-Powered Career Toolkit (PersonaForge)
+#### PersonaForge: AI-Powered Career Toolkit
 [Live Demo & Details](https://elreyuno.github.io/cover-letter-llm/)
 
 
-Full-Stack AI Engineer & Cloud/DevOps Architect:
+Full-Stack AI Engineer | Cloud/DevOps Architect
+
 *   **Backend Development & Architecture**
     *   Ruby on Rails 8.0
     *   PostgreSQL (Secure data storage)
@@ -260,7 +240,7 @@ Full-Stack Software Engineer & Web Application Developer:
     *   Responsive, Mobile-First Web Design
     *   Secure Contact Form Submission API
 
-#### Full-Stack Dashboard Monorepo (Project WeSpark)
+#### Project WeSpark: Full-Stack Dashboard Monorepo
 [Live Demo & Details](https://elreyuno.github.io/project-wespark/)
 
 Full-Stack Engineer with Monorepo & Cross-Platform Expertise:
@@ -313,7 +293,7 @@ JavaScript Developer & Client-Side Specialist:
     *   Hands-on Labs & Practical Projects
     *   Building Interactive & Dynamic Web Pages
 
-#### Titan Coffee Run
+#### Titan Coffee Run: Full-Stack Development for Titans' Coffee Run Coffee Shop
 [Live Demo & Details](https://elreyuno.github.io/Titans-Coffee-Run/)
 
 Full-Stack Engineer with Frontend and Backend Development Expertise:
@@ -335,7 +315,8 @@ Full-Stack Engineer with Frontend and Backend Development Expertise:
   - Order Processing and Checkout System
   - Data Visualization with Chart.js
 
-#### TitanCoffeeRunRails
+#### TitanCoffeeRunRails: Ruby on Rails Web Application
+
 [Live Demo & Details](https://elreyuno.github.io/TitanCoffeeRunRails/)
 
 Backend Engineer & Ruby on Rails Developer:
@@ -355,6 +336,7 @@ Backend Engineer & Ruby on Rails Developer:
     *   Bundler (Ruby dependency management)
 
 #### Automated WordPress Deployment on AWS
+
 [Live Demo & Details](https://elreyuno.github.io/wordpress-aws-deployment/)
 
 Cloud & DevOps Engineer:
@@ -385,6 +367,7 @@ Cloud & DevOps Engineer:
 [Live Demo & Details](https://github.com/ElReyUno/ElReyUno)
 
 Full-Stack Engineer with System Administration Expertise:
+
 * Python Scripting
    * Jupyter Notebooks
    * JupyterLab
@@ -392,7 +375,8 @@ Full-Stack Engineer with System Administration Expertise:
    * Full SDLC (Planning & Requirements Gathering, Design & Prototyping, Development (Coding), Testing & Quality Assurance, Deployment, Maintenance & Support, Documentation)
 * SaaS
     
-#### musicinxin
+#### musicinxin: Legacy Ansible Playbook Migration To Linux Via iOS Application
+
 [Live Demo & Details](https://github.com/ElReyUno/ElReyUno)
 
 VMware Administrator & DevSecOps Engineer:
