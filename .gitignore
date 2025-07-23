@@ -1,0 +1,18 @@
+# Python virtual environment
+eru/
+
+# VS Code settings
+.vscode/
+
+# Node/npm dependencies (if you use npm)
+node_modules/
+
+# OS/Editor files
+.DS_Store
+Thumbs.db
+
+# JSON config (if generated, not hand-edited)
+*.json
+
+# Log files
+*.log
