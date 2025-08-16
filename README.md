@@ -108,11 +108,102 @@ Proven ability to quickly master new tools and languages to deliver high-quality
 
 ### Recent Freelance Projects
 
+#### **_Minimata: Minimal-Data-Dependency CRM with PostgreSQL and Prisma_**
+
+[Live Demo & Details](https://elreyuno.github.io/Minimata/)
+
+Aug 2, 2025 - Aug 11, 2025
+
+Full-Stack Engineer | Backend Engineer | Frontend Engineer | DevOps Engineer | QA/Test Engineer | Database Architect | Security Engineer | API Designer:
+
+  - **Backend Development & Architecture**
+    - Node.js (TypeScript)
+    - Express.js
+    - PostgreSQL (Neon serverless)
+    - Prisma ORM
+    - Custom JWT authentication, Argon2/scrypt password hashing
+    - Session management
+    - Role-Based Access Control (RBAC)
+  - **User/Account/Contact Management**
+    - Full CRUD for users, accounts, contacts
+  - **KPI Tracking**
+    - Custom Key Performance Indicators
+  - **Frontend Development**
+    - React
+    - Next.js (SSR/SSG)
+    - CSS/SASS
+  - **DevOps & Testing**
+    - PM2, nodemon, Jest, Supertest
+  - **API Documentation**
+    - Swagger (swagger-jsdoc, swagger-ui-express)
+
+#### **_Project-UX-UI-X-Functional-NextJS: UX/UI X-Functional NextJS Expo TurboMonoRepo_**
+
+[Live Demo & Details](https://elreyuno.github.io/Project-UX-UI-X-Functional-NextJS/)
+
+Aug 4, 2025
+
+Founding Full-Stack Product Engineer | Technical Architect:
+
+- **Architecture & Stack**
+  - Turborepo monorepo (modular, scalable)
+  - Expo React Native frontend
+  - NestJS backend API
+  - Next.js web admin (optional)
+  - Shared TypeScript, Tailwind CSS (NativeWind), Shadcn/ui
+  - PostgreSQL + Prisma ORM
+  - Docker for local dev and CI
+- **Features & Integrations**
+  - Custom authentication, RBAC, session management
+  - Real-time A/B testing (PostHog, GrowthBook)
+  - Feature flags, analytics (Hotjar, Mixpanel)
+  - CI/CD pipelines (GitHub Actions, GitHub Pages)
+  - Modular testing (Jest, Detox, Supertest)
+  - Observability tooling
+- **Business Impact**
+  - Accelerated MVP delivery (12 weeks)
+  - Developer velocity via clean architecture
+  - UI/UX informed by market research
+  - Performance optimization and real-time analytics
+
+#### **_EV-Buddy: Test-Driven Application Development_**
+
+[Live Demo & Details](https://elreyuno.github.io/EV-Buddy/)
+
+Aug 1, 2025
+
+Mobile App Developer | Technical Architect:
+
+- **Platform & Stack**
+  - Android (Kotlin, Jetpack Compose)
+  - Gradle 8+, JVM
+  - Android Studio Narwhal
+- **Features & Implementation**
+  - Tab-based navigation: Home, My Requests, Profile
+  - Home screen: EV Buddy header, Find Fixed Charger, Find Mobile Power Driver
+  - Mock driver listing: name, distance, arrival time, rating
+  - Responsive UI components, state management
+  - Modular architecture, reusable components
+- **Testing & Quality Assurance**
+  - JUnit unit tests
+  - Espresso UI/instrumentation tests
+  - Automated test scripts (run_all_tests.sh)
+  - 100% test coverage, color-coded results
+- **Engineering Considerations**
+  - Error boundaries, user feedback
+  - Ready for API integration and feature expansion
+  - Scalable, maintainable codebase
+- **Demo & Deliverables**
+  - Live demo video (see repo)
+  - Portfolio-quality source code
+
 #### **_NextLaunch: SaaS Next.js & AI Boilerplate_**
 
 [Live Demo & Details](https://elreyuno.github.io/NextLaunch/)
 
-SaaS Growth Hacker | Data Shaman | Code Alchemist
+Jul 9, 2025 - Jul 20, 2025
+
+SaaS Growth Hacker | Data Shaman | Code Alchemist:
 
 - **Frontend Development**
   - Next.js 14 (App Router)
@@ -153,7 +244,9 @@ SaaS Growth Hacker | Data Shaman | Code Alchemist
 
 [Live Demo & Details](https://elreyuno.github.io/AiderCraft/)
 
-AI-Augmented DeveloperAI Agent Testing Architect | Full-Stack Developer | AI Integration Specialist
+Jul 18, 2025
+
+AI-Augmented DeveloperAI Agent Testing Architect | Full-Stack Developer | AI Integration Specialist:
 
 - **Frontend Development**
   - Angular (TypeScript)
@@ -184,7 +277,9 @@ AI-Augmented DeveloperAI Agent Testing Architect | Full-Stack Developer | AI Int
 
 [Live Demo & Details](https://elreyuno.github.io/Operation-CheckIn/)
 
-AI Agent Testing Validation Architect | AI Agent Behavior Analyst
+Jul 15, 2025 - Jul 18, 2025
+
+AI Agent Testing Validation Architect | AI Agent Behavior Analyst:
 
 - **AI Agent & Testing**
   - Claude AI (Agent)
@@ -204,10 +299,46 @@ AI Agent Testing Validation Architect | AI Agent Behavior Analyst
   - VS Code
   - Anthropic API
 
+#### **_Bodies By Beach Bodies: Single Page Application (SPA) With Modern JavaScript Tool Stack_**
+
+[Live Demo & Details](https://elreyuno.github.io/bodies-by-beach-bodies/)
+
+Jan 13, 2025 - Feb 2, 2025
+
+Full-Stack JavaScript Engineer | UI/UX Designer:
+
+- **Frontend Development & SPA Architecture**
+  - Next.js (React) for server-side rendering and static site generation
+  - Tailwind CSS for mobile-first, responsive design
+  - Component-based UI development with Storybook
+- **Backend & Database**
+  - MongoDB Atlas for scalable cloud data storage
+  - API integration and data fetching with Gwak
+- **Testing & Quality Assurance**
+  - Cypress for end-to-end testing
+  - Jest for unit and integration tests
+- **DevOps & Deployment**
+  - GitHub Actions for CI/CD
+  - Vercel/Netlify for automated deployment
+- **Design & Wireframing**
+  - Figma and wireframe.cc for UI/UX prototyping
+  - Canva for visual assets
+- **Accessibility & SEO**
+  - Semantic HTML, ARIA attributes, and screen reader support
+  - Server-side rendering for SEO optimization
+- **Key Features**
+  - Mobile-first, performance-optimized SPA
+  - Partnership page for stakeholder recruitment
+  - Extensive service and facilities listings
+  - User-friendly navigation and contact forms
+
 #### **_PersonaForge: AI-Powered Career Toolkit_**
+
 [Live Demo & Details](https://elreyuno.github.io/PersonaForge/)
 
-Full-Stack AI Engineer | Cloud/DevOps Architect
+Dec 15, 2024 - On-Going
+
+Full-Stack AI Engineer | Cloud/DevOps Architect:
 
 - **Backend Development & Architecture**
   - Ruby on Rails 8.0
@@ -250,7 +381,9 @@ Full-Stack AI Engineer | Cloud/DevOps Architect
 
 [Live Demo & Details](https://elreyuno.github.io/Bulldawg-Davis-Consulting/)
 
-Full-Stack Software Engineer & Web Application Developer:
+Jun 13, 2025 - Jun 17, 2025
+
+Full-Stack Software Engineer | Web Application Developer:
 
 - **Frontend Development**
   - HTML5, CSS3, Vanilla JavaScript
@@ -266,6 +399,8 @@ Full-Stack Software Engineer & Web Application Developer:
 #### **_Project WeSpark: Full-Stack Dashboard Monorepo_**
 
 [Live Demo & Details](https://elreyuno.github.io/project-wespark/)
+
+May 28, 2025 - Jul 5, 2025
 
 Full-Stack Engineer with Monorepo & Cross-Platform Expertise:
 
@@ -296,7 +431,7 @@ Full-Stack Engineer with Monorepo & Cross-Platform Expertise:
 
 #### **_CIW JavaScript Specialist Certification Prep (1D0-735)_**
 
-JavaScript Developer & Client-Side Specialist:
+JavaScript Developer | Client-Side Specialist:
 
 - **Core JavaScript Fundamentals**
   - Syntax, Data Types & Operators
@@ -324,6 +459,8 @@ JavaScript Developer & Client-Side Specialist:
 
 [Live Demo & Details](https://elreyuno.github.io/Titans-Coffee-Run/)
 
+Oct 24, 2024 - Nov 24, 2024
+
 Full-Stack Engineer with Frontend and Backend Development Expertise:
 
 - HTML, CSS, JavaScript
@@ -348,7 +485,9 @@ Full-Stack Engineer with Frontend and Backend Development Expertise:
 
 [Live Demo & Details](https://elreyuno.github.io/TitanCoffeeRunRails/)
 
-Backend Engineer & Ruby on Rails Developer:
+Dec 9, 2024 - Jul 7, 2025
+
+Backend Engineer | Ruby on Rails Developer:
 
 - **Backend Framework & Database**
   - Ruby on Rails
@@ -368,6 +507,8 @@ Backend Engineer & Ruby on Rails Developer:
 #### **_Automated WordPress Deployment on AWS_**
 
 [Live Demo & Details](https://elreyuno.github.io/wordpress-aws-deployment/)
+
+Dec 19, 2024 - Dec 22, 2024
 
 Cloud & DevOps Engineer:
 
@@ -398,6 +539,8 @@ Cloud & DevOps Engineer:
 
 [Live Demo & Details](https://github.com/ElReyUno/ElReyUno)
 
+May 12, 2024
+
 Full-Stack Engineer with System Administration Expertise:
 
 - Python Scripting
@@ -411,6 +554,8 @@ Full-Stack Engineer with System Administration Expertise:
 
 [Live Demo & Details](https://elreyuno.github.io/musicinxin/)
 
+Sep 11, 2023 - Sep 17, 2023
+
 VMware Administrator & DevSecOps Engineer:
 
 - Client-to-Server Software Engineer & Systems Administrator
@@ -422,6 +567,8 @@ VMware Administrator & DevSecOps Engineer:
 #### **_Interview Cake Weekly Problem 532 Find Rotation Point_**
 
 [Live Demo & Details](https://github.com/ElReyUno/Interview-Cake-532-Find-Rotational-Point)
+
+Nov 26, 2024 - Dec 5, 2024
 
 JavaScript Developer with Algorithm Optimization Expertise:
 
