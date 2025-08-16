@@ -149,7 +149,7 @@ SaaS Growth Hacker | Data Shaman | Code Alchemist
   - Git (Version Control)
   - VS Code
 
-#### **_AidenCraft: AI-Powered Conduit Roster_**
+#### **_AiderCraft: AI-Powered Conduit Roster_**
 
 [Live Demo & Details](https://elreyuno.github.io/AiderCraft/)
 
@@ -182,7 +182,7 @@ AI-Augmented DeveloperAI Agent Testing Architect | Full-Stack Developer | AI Int
 
 #### **_Operation Check-In: AI Agent Testing Framework_**
 
-[Live Demo & Details](https://elreyuno.github.io/Operation-Check-In/)
+[Live Demo & Details](https://elreyuno.github.io/Operation-CheckIn/)
 
 AI Agent Testing Validation Architect | AI Agent Behavior Analyst
 
