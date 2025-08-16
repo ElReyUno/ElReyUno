@@ -151,7 +151,7 @@ SaaS Growth Hacker | Data Shaman | Code Alchemist
 
 #### **_AidenCraft: AI-Powered Conduit Roster_**
 
-[Live Demo & Details](https://elreyuno.github.io/AidenCraft/)
+[Live Demo & Details](https://elreyuno.github.io/AiderCraft/)
 
 AI-Augmented DeveloperAI Agent Testing Architect | Full-Stack Developer | AI Integration Specialist
 
@@ -205,6 +205,7 @@ AI Agent Testing Validation Architect | AI Agent Behavior Analyst
   - Anthropic API
 
 #### **_PersonaForge: AI-Powered Career Toolkit_**
+[Live Demo & Details](https://elreyuno.github.io/cover-letter-llm/)
 
 Full-Stack AI Engineer | Cloud/DevOps Architect
 
@@ -408,7 +409,7 @@ Full-Stack Engineer with System Administration Expertise:
 
 #### **_Musicinxin: Legacy Ansible Playbook Migration To Linux Via iOS Application_**
 
-[Live Demo & Details](https://github.com/ElReyUno/ElReyUno)
+[Live Demo & Details](https://elreyuno.github.io/musicinxin/)
 
 VMware Administrator & DevSecOps Engineer:
 
@@ -420,7 +421,7 @@ VMware Administrator & DevSecOps Engineer:
 
 #### **_Interview Cake Weekly Problem 532 Find Rotation Point_**
 
-[Live Demo & Details](https://github.com/ElReyUno/ElReyUno)
+[Live Demo & Details](https://github.com/ElReyUno/Interview-Cake-532-Find-Rotational-Point)
 
 JavaScript Developer with Algorithm Optimization Expertise:
 
