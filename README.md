@@ -4,22 +4,30 @@
 > Explore my interactive portfolio at [EZASW](https://elreyuno.github.io/ElReyUno/) — live demos, real code, and a sprinkle of engineering magic await!
 
 <p align="left">
+  <!-- Social / Profile -->
   <a href="https://github.com/elreyuno">
     <img src="https://img.shields.io/github/followers/elreyuno?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/elreyuno?tab=repositories">
     <img src="https://img.shields.io/github/stars/elreyuno?label=GitHub%20Stars&style=social" alt="GitHub Stars" />
   </a>
-  <a href="https://github.com/ElReyUno">
-    <img src="https://img.shields.io/badge/CIW-JavaScript%20Specialist-yellow?logo=javascript&style=flat-square" alt="CIW JavaScript Specialist" />
-  </a>
-  <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&style=flat-square" alt="Linux" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&style=flat-square" alt="VS Code" />
   <img src="https://img.shields.io/badge/Stack-Full--Stack-green?style=flat-square" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/SaaS-green?style=flat-square" alt="SaaS" />
 </p>
+
 <p align="left">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=flat-square" alt="Bash" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&style=flat-square" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&style=flat-square" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&style=flat-square" alt="C#" />
+</p>
+
+<p align="left">
+  <!-- Web & Frameworks -->
   <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&style=flat-square" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-black?logo=express&style=flat-square" alt="Express.js" />
   <img src="https://img.shields.io/badge/Angular-red?logo=angular&style=flat-square" alt="Angular" />
@@ -27,19 +35,55 @@
   <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&style=flat-square" alt="Next.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&style=flat-square" alt="NestJS" />
   <img src="https://img.shields.io/badge/Ruby%20on%20Rails-red?logo=rubyonrails&style=flat-square" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?logo=dotnet&style=flat-square" alt=".NET MAUI" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&style=flat-square" alt="Android" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android&style=flat-square" alt="Jetpack Compose" />
+</p>
+
+<p align="left">
+  <!-- Databases & ORMs -->
   <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&style=flat-square" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-red?logo=redis&style=flat-square" alt="Redis" />
   <img src="https://img.shields.io/badge/Sidekiq-CC0000?logo=sidekiq&style=flat-square" alt="Sidekiq" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&style=flat-square" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Neon%20(Postgres)-0A84FF?style=flat-square" alt="Neon PostgreSQL" />
+</p>
+
+<p align="left">
+  <!-- Styling & UI -->
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&style=flat-square" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&style=flat-square" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Shadcn/ui-6E56CF?style=flat-square" alt="Shadcn/ui" />
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&style=flat-square" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&style=flat-square" alt="CSS3" />
+</p>
+
+<p align="left">
+  <!-- AI / LLM / Agentic -->
+  <img src="https://img.shields.io/badge/OpenAI-blue?logo=openai&style=flat-square" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-orange?logo=anthropic&style=flat-square" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Claude_AI-FF9900?style=flat-square" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/FastMCP-000000?style=flat-square" alt="FastMCP" />
+  <img src="https://img.shields.io/badge/Aider-CLI-6E56CF?style=flat-square" alt="Aider CLI" />
+</p>
+
+<p align="left">
+  <!-- Testing & QA -->
   <img src="https://img.shields.io/badge/Jest-green?logo=jest&style=flat-square" alt="Jest" />
   <img src="https://img.shields.io/badge/Mocha%20%26%20Chai-8D6748?logo=mocha&style=flat-square" alt="Mocha & Chai" />
-  <img src="https://img.shields.io/badge/Chart.js-orange?logo=chartdotjs&style=flat-square" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&style=flat-square" alt="Cypress" />
+  <img src="https://img.shields.io/badge/RSpec-CC342D?style=flat-square" alt="RSpec" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square" alt="JUnit" />
+  <img src="https://img.shields.io/badge/Espresso-6F4E37?style=flat-square" alt="Espresso" />
+  <img src="https://img.shields.io/badge/Detox-000000?style=flat-square" alt="Detox" />
+  <img src="https://img.shields.io/badge/Supertest-000000?style=flat-square" alt="Supertest" />
+</p>
+
+<p align="left">
+  <!-- Cloud, DevOps & Infra -->
   <img src="https://img.shields.io/badge/Docker-blue?logo=docker&style=flat-square" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-orange?logo=amazonaws&style=flat-square" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-yellow?logo=googlecloud&style=flat-square" alt="GCP" />
@@ -51,17 +95,54 @@
   <img src="https://img.shields.io/badge/CloudFront-FF9900?logo=amazoncloudfront&style=flat-square" alt="CloudFront" />
   <img src="https://img.shields.io/badge/Route%2053-FF9900?logo=amazonroute53&style=flat-square" alt="Route 53" />
   <img src="https://img.shields.io/badge/CodePipeline-FF9900?logo=aws&style=flat-square" alt="CodePipeline" />
-  <img src="https://img.shields.io/badge/OpenAI-blue?logo=openai&style=flat-square" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic-orange?logo=anthropic&style=flat-square" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square" alt="DevOps" />
+  <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&style=flat-square" alt="Linux" />
+  <img src="https://img.shields.io/badge/WSL-Ubuntu%2022.04-FF6C37?style=flat-square" alt="WSL Ubuntu" />
+</p>
+
+<p align="left">
+  <!-- Observability & Analytics -->
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&style=flat-square" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&style=flat-square" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&style=flat-square" alt="Sentry" />
+  <img src="https://img.shields.io/badge/PostHog-000000?style=flat-square" alt="PostHog" />
+  <img src="https://img.shields.io/badge/GrowthBook-0F766E?style=flat-square" alt="GrowthBook" />
+  <img src="https://img.shields.io/badge/Mixpanel-6F2CFF?style=flat-square" alt="Mixpanel" />
+  <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=flat-square" alt="Hotjar" />
+  <img src="https://img.shields.io/badge/Chart.js-orange?logo=chartdotjs&style=flat-square" alt="Chart.js" />
+</p>
+
+<p align="left">
+  <!-- Auth, Payments, Comms -->
   <img src="https://img.shields.io/badge/Clerk-3A3A3A?logo=clerk&style=flat-square" alt="Clerk" />
   <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&style=flat-square" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Resend-4B9CD3?logo=gmail&style=flat-square" alt="Resend" />
-  <img src="https://img.shields.io/badge/Aider-CLI-6E56CF?style=flat-square" alt="Aider CLI" />
-  <img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&style=flat-square" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Resend-4B9CD3?style=flat-square" alt="Resend" />
+</p>
+
+<p align="left">
+  <!-- Tools, Editors & Collab -->
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&style=flat-square" alt="VS Code" />
   <img src="https://img.shields.io/badge/Codespaces-0078D4?logo=github&style=flat-square" alt="Codespaces" />
   <img src="https://img.shields.io/badge/Git-black?logo=git&style=flat-square" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square" alt="GitHub" />
-  <img src="https://img.shields.io/badge/SaaS-green?style=flat-square" alt="SaaS" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&style=flat-square" alt="Postman" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=githubactions&style=flat-square" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&style=flat-square" alt="Discord" />
+</p>
+
+<p align="left">
+  <!-- Design / UX -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=flat-square" alt="Figma" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&style=flat-square" alt="Storybook" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&style=flat-square" alt="Canva" />
+</p>
+
+<p align="left">
+  <!-- Certifications / Programs -->
+  <img src="https://img.shields.io/badge/CIW-JavaScript%20Specialist-yellow?logo=javascript&style=flat-square" alt="CIW JavaScript Specialist" />
+  <img src="https://img.shields.io/badge/Handshake-MOVE%20Fellow-000000?style=flat-square" alt="Handshake MOVE Fellow" />
+  <img src="https://img.shields.io/badge/Toloka-Mindrift-000000?style=flat-square" alt="Toloka Mindrift" />
+  <img src="https://img.shields.io/badge/B--Sides_St._Pete-Security_Training-000000?style=flat-square" alt="B-Sides St. Pete" />
 </p>
 
 ## Table of Contents
@@ -107,6 +188,106 @@ Proven ability to quickly master new tools and languages to deliver high-quality
 ## Currently Actively Engaged
 
 ### Recent Freelance Projects
+
+#### **_Toloka Mindrift | Halva Project · Tool-Agent-User (TAU) Framework_**
+
+November 2025 - Present
+
+AI Agent Evaluation \& Policy Compliance Analyst | AI Tool-Use \& Trajectory Evaluation Specialist:
+
+- **AI Agent \& Testing**
+    - Claude AI (Agent)
+    - MCP (Model Context Protocol)
+    - FastMCP (Server)
+    - Test case design \& validation
+- **Backend Development \& Automation**
+    - Python
+    - Bash
+    - Test scripting
+- **Containerization \& DevOps**
+    - Docker
+    - GitHub (Version Control)
+- **Essential Tools**
+    - uv (Python package installer)
+    - VS Code
+    - Anthropic API
+
+
+#### **_Toloka Mindrift | Computationally Intensive (CI) STEM Q\&A Expert_**
+
+November 2025 - Present
+
+STEM Problem Designer | AI Evaluation Specialist | Technical Content Developer | AI Reasoning Benchmark Creator:
+
+- **AI Agent \& Testing**
+    - Python (NumPy, SciPy)
+    - Mathematical problem design
+    - Model evaluation \& testing
+- **Backend Development \& Automation**
+    - Python
+    - Golden solution development
+    - Verification workflows
+- **Quality Assurance**
+    - Determinism testing
+    - Reproducibility validation
+    - QA checklists
+- **Essential Tools**
+    - Discord (Project support)
+    - Mindrift Chat
+    - Standard engineering documentation
+
+
+#### **_Handshake AI MOVE Fellow | Project Orion_**
+
+October 2025 - Present
+
+AI Alignment \& Scientific Integrity Evaluator | AI Evaluation \& Safety Analyst:
+
+- **Annotations Team**
+    - Machine learning agent evaluation
+    - Scientific integrity assessment
+    - Rubric-based evaluation forms
+- **Corrections Team**
+    - Agent output review \& correction
+    - Annotation accuracy verification
+    - Dataset quality maintenance
+- **AI Safety \& Alignment**
+    - Experimental integrity validation
+    - Deceptive practice detection
+    - Alignment research support
+- **Essential Tools**
+    - Evaluation rubrics
+    - Log analysis tools
+    - Scientific integrity standards
+
+
+#### **_B-Sides St. Pete | TCP/IP Black Ops Training_**
+
+October 3, 2025
+
+Cybersecurity Training Participant:
+
+- **Network Security \& Penetration Testing**
+    - OSI model layers 1–4 tactics
+    - ARP cache poisoning
+    - VLAN hopping
+    - OSPF manipulation
+- **Infrastructure \& Tools**
+    - Enterprise network building/dismantling
+    - Splunk Enterprise \& heavy forwarders
+    - Linux system administration
+    - AWS deployment
+- **Security Analysis**
+    - Red Team \& Blue Team TTPs
+    - Network vulnerability assessment
+    - Creative Nmap scanning
+    - Dual-perspective security thinking
+- **Essential Tools**
+    - Splunk
+    - AWS
+    - Linux command line
+    - Bash scripting
+    - systemd services
 
 #### **_Minimata: Minimal-Data-Dependency CRM with PostgreSQL and Prisma_**
 
