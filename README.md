@@ -189,7 +189,7 @@ Proven ability to quickly master new tools and languages to deliver high-quality
 
 ### Recent Freelance Projects
 
-#### **_Toloka Mindrift | Halva Project · Tool-Agent-User (TAU) Framework_**
+#### **_Toloka Mindrift | Tool-Agent-User Framework_**
 
 November 2025 - Present
 
@@ -237,7 +237,7 @@ STEM Problem Designer | AI Evaluation Specialist | Technical Content Developer |
     - Standard engineering documentation
 
 
-#### **_Handshake AI MOVE Fellow | Project Orion_**
+#### **_Handshake AI MOVE Fellow | Project Integrity Sentinel AgentAuditing TruthTracer - CodeIntegrity AI_**
 
 October 2025 - Present
 
